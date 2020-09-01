@@ -1,1 +1,4 @@
 initGit Repository
+
+midify initGit.txt
+
